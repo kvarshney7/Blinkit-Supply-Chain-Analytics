@@ -51,7 +51,7 @@ Unlike standard dashboards that just show sales, this analysis uses **Python & S
 
 ### **1. Executive Dashboard Overview**
 *Interactive view of Total Revenue (₹11M) and Delivery Delays (30.6%).*
-![Dashboard Overview](Images/Image_1_Overview.jpg)
+![Dashboard Overview](Images/Blinkit Dashboard_page-0001.jpg)
 
 ### **2. Customer Retention Heatmap**
 *Visualizing the drastic 14% drop-off in Month 1.*
